@@ -12,8 +12,8 @@ const mockUpStrand = () => {
   }
   return newStrand;
 };
-//tj
 
+let arrayTwo = [1,2,3]
 
 
 
